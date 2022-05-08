@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning the material to become a full stack software engineer 
 - 💞️ I’m looking to collaborate on projects surrounding engineering and computing
 
-Follow my journey! 😊
+Follow me on my journey! 😊
