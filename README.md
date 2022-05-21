@@ -5,6 +5,3 @@
 
 Follow me on my journey! 😊
 
-🧰 Toolbox
-
-HTML logoCss logoJavascript logoJava logoreact logoPython logoPostgresql logoPandas logoJupyter logo Spring logogit logoGithub logoGithub logo
