@@ -1,4 +1,6 @@
 
+### Hi there, I am Ana!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+---
 - 👋 Hi, I’m @AnaPaulaL27
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning the material to become a full stack software engineer 
