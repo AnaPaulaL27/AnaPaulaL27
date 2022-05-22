@@ -18,8 +18,8 @@ Follow me on my journey! 😊
 ---
 ### My gitHub stats :
 <br/>
-    <a href="https://github.com/anapaulal27/"><img alt="Ana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anabela-lima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anapaulal27/"><img alt="Ana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabela-lima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anapaulal27/"><img alt="Ana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anapaulal27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anapaulal27/"><img alt="Ana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulal27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages reflect the primary languages used in my code
 <br/>
