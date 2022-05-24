@@ -24,7 +24,7 @@ Follow me on my journey! 😊
   <b>Note:</b> Top languages reflect the primary languages used in my code
 <br/>
 <br/>
-<a href="https://github.com/anabela-lima/"><img alt="ana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anapaulal27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anapaulal27/"><img alt="ana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anapaulal27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 <!--
