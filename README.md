@@ -19,6 +19,9 @@ Follow me on my journey! 😊
 <b>Note:</b> Top languages reflect the primary languages used in my code
 
 <br/>
+     <a href="https://github.com/anapaulal27/"><img alt="AnaPaulaL27's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anapaulal27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br/>
 <br/>
 
 <a href="https://github.com/AnaPaulaL27/"><img alt="AnapaulaL27's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anapaulal27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
